@@ -1,4 +1,4 @@
-# Hiwall Cars
+# Hiwall Motors
 
 
 We are a BeamNG vehicle manufacturer founded in March 2026.
