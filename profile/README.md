@@ -13,6 +13,8 @@ Base GTB2: Alpha 0.38.4
 
 Base GTL: Alpha 0.38.4
 
+Base SUPEReco: Alpha 0.38.4
+
 Base GTXT: Alpha 0.38.4
 
 Cascadia GTB2: Alpha 0.38.4
