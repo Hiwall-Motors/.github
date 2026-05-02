@@ -17,19 +17,19 @@ Base SUPEReco: Alpha 0.38.4
 
 Base GTXT: Alpha 0.38.4
 
-Cascadia GTB2: Alpha 0.38.4
+Cascadia GTB2: Alpha 0.38.4 (Discontinued Line)
 
-Marlin GTB1: Alpha 0.38.4
+Marlin GTB1: Alpha 0.38.4 (Discontinued Line)
 
-Turborunner: Alpha 0.38.4
+Turborunner: Alpha 0.38.4 (Discontinued Line)
 
-Solo GT1: Alpha 0.38.4
+Solo GT1: Alpha 0.38.4 (Discontinued Line)
 
 Ranchtow GTXT: Alpha 0.38.4
 
 Ranchtow GTXT2: Alpha 0.38.4
 
-Prototype: Alpha 0.38.4
+Prototype: Alpha 0.38.4 (Discontinued Line, Test Vehicle)
 
 Mentor: Alpha 0.38.4
 
