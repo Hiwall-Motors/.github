@@ -31,4 +31,6 @@ Ranchtow GTXT2: Alpha 0.38.4
 
 Prototype: Alpha 0.38.4
 
+Mentor: Alpha 0.38.4
+
 (.car files are provided since our vehicles are open source if you would like to update them at any given time)
